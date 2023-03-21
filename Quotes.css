@@ -1,0 +1,29 @@
+.nav-bar {
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 25px;
+    font-family: Roboto;
+    font-size: 25px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+.quote {
+    margin-top: 40px;
+    font-family: cursive;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.content {
+    padding: 20px;
+    padding-left: 30px;
+}
+
+.img {
+    height: 250px;
+}
+

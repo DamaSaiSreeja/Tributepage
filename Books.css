@@ -1,0 +1,32 @@
+.nav-bar {
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 25px;
+    font-family: Roboto;
+    font-size: 25px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+.box {
+    margin: 20px;
+    width: 180px;
+    cursor: pointer;
+}
+
+.img {
+    height: 250px;
+    width: 180px;
+    margin-bottom: 20px;
+}
+
+.book-name {
+    font-size: 20px;
+}
+
+.years {
+    font-family: Klinic Slab;
+}

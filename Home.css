@@ -1,0 +1,20 @@
+.nav-bar {
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 25px;
+    font-family: Roboto;
+    font-size: 25px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+.bg-container {
+    background-image: url("https://www.wallpapertip.com/wmimgs/16-161587_dr-a-p-j-abdul-kalam-quotes-hd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 86.5vh;
+    width: 100vw;
+}
